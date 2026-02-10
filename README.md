@@ -28,9 +28,4 @@ Then uncomment the two certifi lines at the top.
 Made as practice for MSc AI/ML coursework.
 text
 
-
-This version should look **much more natural** — like you wrote it step by step, tried things, added comments in your own words.
-
-Feel free to change any comment or number to make it even more "you".
-
-Good luck with the repo! 🚀  
+ 
