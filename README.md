@@ -27,5 +27,7 @@ pip install certifi
 Then uncomment the two certifi lines at the top.
 Made as practice for MSc AI/ML coursework.
 text
-
- 
+if you get the SSL certificate error on Windows:
+ # import certifi
+# import os
+# os.environ['SSL_CERT_FILE'] = certifi.where()
